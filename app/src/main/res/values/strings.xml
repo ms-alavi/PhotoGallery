@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">favorite</string>
+    <string name="refresh">refresh</string>
+    <string name="share">share</string>
+    <string name="send_photo">Send photo via</string>
+    <string name="todo">TODO</string>
+</resources>
